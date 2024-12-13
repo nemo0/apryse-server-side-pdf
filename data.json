@@ -1,0 +1,38 @@
+{
+  "company_name": "Tech Solutions Ltd.",
+  "company_address": "123 Tech Street",
+  "company_city": "Palo Alto",
+  "company_country": "USA",
+  "postal_code": "94301",
+  "invoice_number": "INV-2024-001",
+  "date": "2024-12-01",
+  "due_date": "2024-12-15",
+  "items": [
+    {
+      "item": "Web Development",
+      "description": "Web Development Services",
+      "quantity": "10",
+      "price": "100.0",
+      "tax_percent": "10.0",
+      "amount": "1100.0"
+    },
+    {
+      "item": "Cloud Hosting",
+      "description": "Cloud Hosting (1 Year)",
+      "quantity": "1",
+      "price": "200.0",
+      "tax_percent": "5.0",
+      "amount": "210.0"
+    },
+    {
+      "item": "Support",
+      "description": "Support & Maintenance",
+      "quantity": "5",
+      "price": "50.0",
+      "tax_percent": "8.0",
+      "amount": "270.0"
+    }
+  ],
+  "total_due": "1580.0",
+  "signature": "Authorized Signatory"
+}
